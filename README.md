@@ -41,6 +41,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 ## 👤 Yazar
 
-**[Halil Taşar]**
+**Halil Taşar**
 
-Bu proje, [Fırat Üniversitesi] - [Nesne Tabanlı Programlama] dersi kapsamında bir ödev olarak geliştirilmiştir.
+Bu proje, Fırat Üniversitesi - Nesne Tabanlı Programlama dersi kapsamında bir ödev olarak geliştirilmiştir.
