@@ -26,8 +26,7 @@ Uygulama, bir sunucu (server) ve bu sunucuya bağlanabilen çok sayıda istemcid
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Depoyu Klonlayın:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[tasarhalil]/[CSharp-Socket-Chat].git
+   git clone https://github.com/tasarhalil/CSharp-Socket-Chat.git
     ```
 2.  **Visual Studio'da Açın:**
     Proje klasöründeki `.sln` uzantılı dosyayı Visual Studio 2022 ile açın.
